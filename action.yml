@@ -1,0 +1,8 @@
+name: 'Hello World'
+description: 'Intro to Github actions'
+autho: 'Jonathan Gil <jhongilp@gmail.com>'
+
+
+runs:
+  using: 'node12'
+  main: 'index.js'
